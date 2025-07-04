@@ -6,15 +6,17 @@
 
 html {
     background-color: rgb(7, 198, 26);
+    background-image: url(/pexels-pixabay-531880.jpg);
 }
 
 .container {
     width: 350px;
     height: 350px;
-    background-color: #ffffff;
+    background-color: transparent;
     margin: 200px auto;
     border-radius: 20px;
-    box-shadow: 0 10px 30px rgba(2, 13, 3, 0.8);
+    box-shadow: 0 10px 30px rgb(0, 15, 6);
+
 }
 
 h1 {
@@ -83,7 +85,7 @@ h1 {
 .back {
     width: 70px;
     height: 70px;
-    background-color: rgb(7, 198, 26);
+    background-color: rgb(58, 217, 41);
     text-align: center;
     margin: 0 auto;
     position: relative;
